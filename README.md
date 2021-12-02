@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 <br>
 - 🌱 I’m currently learning about web technologies and the MERN stack.
 <br>
+- :man_technologist: I'm currently searching for a Full-Time position where I can apply my technical skills as well as learn new things!
